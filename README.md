@@ -39,7 +39,8 @@ Follow instructions for your given `development OS` and `target OS`.
 To create a new project using the boilerplate simply run :
 
 ```
-npx react-native init MyAppName --template @handidev/react-native-typescript-boilerplate
+npx react-native init MyAppName --template @symmacoin/react-native-typescript-boilerplate-1
+
 ```
 
 note: replace `MyAppName` with your desired App name.
